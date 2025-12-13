@@ -67,7 +67,7 @@ The strongest performance overall was obtained using a 500-dimensional embedding
 - Hyperparameters had a far greater impact on performance than added model complexity.  
 - Higher learning rates, larger embeddings, smaller kernels, and shorter input lengths consistently improved results.  
 - Adam diverged at the learning rates used; future work should test it at smaller learning rates for a fair comparison.  
-- The best overall accuracy (79.54%) was achieved using a simple CNN with a 500-dimensional embedding.
+- The best overall accuracy (79.54%) was achieved using a modified CNN with a 500-dimensional embedding.
 
 ## Author
 Saisrijith Reddy Maramreddy
